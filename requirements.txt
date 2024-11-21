@@ -1,1 +1,7 @@
-
+pyspark==3.5.0
+wget==3.2
+matplotlib==3.8.0
+pandas==2.1.1
+notebook==7.0.4
+seaborn==0.12.2 
+findspark==2.0.1 

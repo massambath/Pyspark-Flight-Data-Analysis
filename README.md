@@ -23,4 +23,4 @@ Ce projet analyse les données des vols commerciaux aux États-Unis de 1987 à 2
 ## Installation
 1. Clonez ce dépôt :
    ```bash
-   git clone https://github.com/username/flight-data-analysis.git
+   git clone https://github.com/username/Pyspark-Flight-Data-Analysis.git

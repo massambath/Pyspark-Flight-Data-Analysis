@@ -1,7 +1,7 @@
 # Flight Data Analysis with PySpark
 
 ## Description
-Ce projet analyse les données des vols commerciaux aux États-Unis de 1987 à 2008.
+Ce projet scolaire(2e année d'école d'ing) analyse les données des vols commerciaux aux États-Unis de 1987 à 2008.
 Nous utilisons **PySpark** pour traiter les données volumineuses  et en extraire des insights.
 
 ## Fonctionnalités
